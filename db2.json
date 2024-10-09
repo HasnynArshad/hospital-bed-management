@@ -1,0 +1,122 @@
+[
+    {
+      "name": "OT",
+      "totalBeds": 5,
+      "occupiedBeds": 3,
+      "dischargeRequests": 1,
+      "availableBeds": 2
+    },
+    {
+      "name": "Cardiac Ward",
+      "totalBeds": 20,
+      "occupiedBeds": 15,
+      "dischargeRequests": 3,
+      "availableBeds": 2
+    },
+    {
+      "name": "Neuro Ward",
+      "totalBeds": 16,
+      "occupiedBeds": 10,
+      "dischargeRequests": 2,
+      "availableBeds": 4
+    },
+    {
+      "name": "ICU",
+      "totalBeds": 25,
+      "occupiedBeds": 20,
+      "dischargeRequests": 4,
+      "availableBeds": 1
+    },
+    {
+      "name": "Pediatrics",
+      "totalBeds": 15,
+      "occupiedBeds": 10,
+      "dischargeRequests": 2,
+      "availableBeds": 3
+    },
+    {
+      "name": "Maternity",
+      "totalBeds": 12,
+      "occupiedBeds": 8,
+      "dischargeRequests": 2,
+      "availableBeds": 2
+    },
+    {
+      "name": "Emergency",
+      "totalBeds": 30,
+      "occupiedBeds": 25,
+      "dischargeRequests": 5,
+      "availableBeds": 0
+    },
+    {
+      "name": "General Ward",
+      "totalBeds": 70,
+      "occupiedBeds": 60,
+      "dischargeRequests": 5,
+      "availableBeds": 5
+    },
+    {
+      "name": "Oncology",
+      "totalBeds": 150,
+      "occupiedBeds": 140,
+      "dischargeRequests": 8,
+      "availableBeds": 2
+    },
+    {
+      "name": "Orthopedics",
+      "totalBeds": 25,
+      "occupiedBeds": 20,
+      "dischargeRequests": 3,
+      "availableBeds": 2
+    },
+    {
+      "name": "Gastroenterology",
+      "totalBeds": 30,
+      "occupiedBeds": 25,
+      "dischargeRequests": 2,
+      "availableBeds": 3
+    },
+    {
+      "name": "Dermatology",
+      "totalBeds": 25,
+      "occupiedBeds": 15,
+      "dischargeRequests": 5,
+      "availableBeds": 5
+    },
+    {
+      "name": "Neurology",
+      "totalBeds": 25,
+      "occupiedBeds": 20,
+      "dischargeRequests": 3,
+      "availableBeds": 2
+    },
+    {
+      "name": "Renal",
+      "totalBeds": 10,
+      "occupiedBeds": 7,
+      "dischargeRequests": 1,
+      "availableBeds": 2
+    },
+    {
+      "name": "Psychiatry",
+      "totalBeds": 20,
+      "occupiedBeds": 18,
+      "dischargeRequests": 2,
+      "availableBeds": 0
+    },
+    {
+      "name": "Trauma",
+      "totalBeds": 25,
+      "occupiedBeds": 22,
+      "dischargeRequests": 2,
+      "availableBeds": 1
+    },
+    {
+      "name": "Urology",
+      "totalBeds": 16,
+      "occupiedBeds": 10,
+      "dischargeRequests": 2,
+      "availableBeds": 4
+    }
+  ]
+  

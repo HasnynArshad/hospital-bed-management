@@ -1,0 +1,84 @@
+{
+  "departments": [
+    {
+      "id": 1,
+      "name": "OT",
+      "totalBeds": 5,
+      "occupiedBeds": 3,
+      "dischargeRequests": 1,
+      "availableBeds": 2
+    },
+    {
+      "id": 2,
+      "name": "Cardiac Ward",
+      "totalBeds": 20,
+      "occupiedBeds": 15,
+      "dischargeRequests": 2,
+      "availableBeds": 5
+    },
+    {
+      "id": 3,
+      "name": "Neuro Ward",
+      "totalBeds": 16,
+      "occupiedBeds": 10,
+      "dischargeRequests": 1,
+      "availableBeds": 5
+    },
+    {
+      "id": 4,
+      "name": "IPD Ward",
+      "totalBeds": 16,
+      "occupiedBeds": 10,
+      "dischargeRequests": 1,
+      "availableBeds": 5
+    },
+    {
+      "id": 5,
+      "name": "General Ward",
+      "totalBeds": 16,
+      "occupiedBeds": 10,
+      "dischargeRequests": 1,
+      "availableBeds": 5
+    },
+    {
+      "id": 6,
+      "name": "Dylasis Ward",
+      "totalBeds": 16,
+      "occupiedBeds": 10,
+      "dischargeRequests": 1,
+      "availableBeds": 5
+    },
+    {
+      "id": 7,
+      "name": "Medical ICU-1",
+      "totalBeds": 20,
+      "occupiedBeds": 10,
+      "dischargeRequests": 3,
+      "availableBeds": 7
+    },
+    {
+      "id": 8,
+      "name": "Medical ICU-2",
+      "totalBeds": 16,
+      "occupiedBeds": 12,
+      "dischargeRequests": 1,
+      "availableBeds": 4
+    },
+    {
+      "id": 9,
+      "name": "NICU",
+      "totalBeds": 8,
+      "occupiedBeds": 5,
+      "dischargeRequests": 1,
+      "availableBeds": 3
+    },
+    {
+      "id": 10,
+      "name": "PICU",
+      "totalBeds": 9,
+      "occupiedBeds": 5,
+      "dischargeRequests": 1,
+      "availableBeds": 4
+    }
+  ]
+}
